@@ -1,2 +1,3 @@
-# elexandria
+# Ælexandria (Aelexandria)
+
 Electric book library
